@@ -1,0 +1,19 @@
+prefix: "&c[PhysicsToggle] "
+physics-blocked: false
+
+permission-denied: "&cYou do not have permission to execute this command!"
+
+# Blocked events
+# true means blocked
+fluid-flow: true
+block-ignited: true
+block-burn: true
+block-physics: true
+leave-decay: true
+block-form: true
+block-spread: true
+block-explode: true
+
+entity-explode: true
+explosion-prime: true
+creature-spawn: true

@@ -1,0 +1,11 @@
+name: PhysicsToggle
+version: '${project.version}'
+main: be.ciaran.physicstoggle.PhysicsToggle
+api-version: 1.19
+authors: [ SleepingCiaran ]
+description: Toggles physics.
+commands:
+  physics:
+    description: Toggles physics.
+    usage: /<command>
+    permission: physicstoggle.toggle
